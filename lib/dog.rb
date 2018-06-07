@@ -14,6 +14,8 @@ def self.all
   end
 end
 
-def 
+def self.clear_all
+  @@all.
+end
 #binding.pry
 end
