@@ -11,6 +11,7 @@ end
 def self.all
   @@all.each do |dogs|
     puts dogs
+  end
 end
 #binding.pry
 end
