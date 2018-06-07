@@ -13,5 +13,7 @@ def self.all
     puts dogs.name
   end
 end
+
+def 
 #binding.pry
 end
