@@ -10,7 +10,7 @@ end
 
 def self.all
   @@all.each do |dogs|
-    puts dogs
+    puts dogs.name
   end
 end
 #binding.pry
