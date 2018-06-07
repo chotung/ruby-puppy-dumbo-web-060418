@@ -9,7 +9,8 @@ def  initialize(name)
 end
 
 def self.all
-  @@all
+  @@all.each do |dogs|
+    puts dogs
 end
 binding.pry
 end
